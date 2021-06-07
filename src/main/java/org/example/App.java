@@ -25,11 +25,9 @@ public class App {
         String pass = in.next();
 
         if (pass.equals("abc$123")){
-
             System.out.print("Welcome!");
         }
         else{
-
             System.out.print("I don't know you.");
         }
     }
